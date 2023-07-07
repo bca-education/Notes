@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_notes">Text Notes</string>
+    <string name="english">Communicative English</string>
+    <string name="maths">Basic Mathematics</string>
+    <string name="fundamentals">Computer Fundamentals</string>
+    <string name="c">Introduction To C Language</string>
+</resources>
